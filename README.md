@@ -12,7 +12,7 @@ You can install and run the current version with git, node and npm:
 
 `npm install`
 
-'npm install '
+`npm install`
 
 `npm start`
 
